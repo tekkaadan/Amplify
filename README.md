@@ -11,6 +11,14 @@ Features include:
 * Light and dark themes
 * Notification Widgets with instant/real-time price updates
 
+## Changelog
+
+Amplify v1.1:
+* Added AMOLED based Dark Mode
+* Fixed a few parsing errors of a few exchanges
+* Fixed some portfolio calculations for some exchanges.
+* Some Misc changes
+
 ## Issues, Feature Requests and Contributing
 
 If you have any requests, changes or suggestions. Please email us at developer@tekhnical.com 
@@ -19,7 +27,7 @@ If you have any requests, changes or suggestions. Please email us at developer@t
 
 ## FAQ
 
-[See our website.](https://tekhnical.com/amplify
+[See our website.](https://tekhnical.com/amplify/)
 You can also reach out to us on [Twitter](https://twitter.com/tekkaadan).
 
 ## Disclaimer
