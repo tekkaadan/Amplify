@@ -1,4 +1,4 @@
-# ![LOGO](https://camo.githubusercontent.com/88110c054371ee5870e2c00ace61b155c4e944d0/68747470733a2f2f692e696d6775722e636f6d2f796d73427532672e706e67)
+![GIGI](https://i.imgur.com/eFXOsHd.png)
 
 Amplify is a free Cryptocurrency Price checking and portofilio tracking application.
 
