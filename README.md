@@ -21,7 +21,7 @@ Amplify v1.1:
 * Fixed some portfolio calculations for some exchanges.
 * Some Misc changes
 
-## Issues, Feature Requests and Contributing
+## Issues and Feature Requests
 
 If you have any requests, changes or suggestions. Please email us at developer@tekhnical.com 
 
