@@ -1,8 +1,4 @@
-![GIGI](https://i.imgur.com/eFXOsHd.png)
-
-Amplify is a free Cryptocurrency Price checking and portofilio tracking application.
-
-# ![GITLI](https://i.imgur.com/vkJvmoJ.png)
+![MAIN](https://i.imgur.com/GORKzhA.png)
 
 ## Features
 
