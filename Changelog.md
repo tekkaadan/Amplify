@@ -11,7 +11,16 @@ Features include:
 
 ## Changelog
 
-Amplify v1.1:
+Amplify v1.2 (Latest):
+* Added Uniswap V1 & 2, Mooniswap, Sushiswap and 10 other popular DEX's
+* Added shills for thrills. "Start Trading Section"
+* Fixed parsing errors for a few exchanges
+* Portfolio tracker updates
+* Minor bug fixes
+
+## Old Changelog
+
+Amplify v1.1 (Outdated):
 * Added AMOLED based Dark Mode
 * Fixed a few parsing errors of a few exchanges
 * Fixed some portfolio calculations for some exchanges.
