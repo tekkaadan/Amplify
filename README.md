@@ -20,7 +20,7 @@ Amplify v1.2 (Latest):
 
 ## Issues and Feature Requests
 
-If you have any requests, changes or suggestions. Please email us at developer@tekhnical.com 
+If you have any requests, changes or suggestions add them to the issues section. 
 
 <details><summary>Issues</summary>
 
