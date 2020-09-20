@@ -18,14 +18,6 @@ Amplify v1.2 (Latest):
 * Portfolio tracker updates
 * Minor bug fixes
 
-## Old Changelog
-
-Amplify v1.1 (Outdated):
-* Added AMOLED based Dark Mode
-* Fixed a few parsing errors of a few exchanges
-* Fixed some portfolio calculations for some exchanges.
-* Some Misc changes
-
 ## Issues and Feature Requests
 
 If you have any requests, changes or suggestions. Please email us at developer@tekhnical.com 
