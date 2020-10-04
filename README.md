@@ -11,11 +11,10 @@ Features include:
 
 ## Changelog
 
-Amplify v1.3 (Latest):
-* Added Serum DEX
-* Added two new themes (gray and sepia)
-* Parsing error fixes
-* Minor bug fixes
+Amplify v1.4(Latest):
+* Fixed issues where some users didn't get auto refreshes
+* Misc bug fixes
+
 
 ## Issues and Feature Requests
 
