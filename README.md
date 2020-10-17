@@ -11,10 +11,8 @@ Features include:
 
 ## Changelog
 
-Amplify v1.4(Latest):
-* Fixed issues where some users didn't get auto refreshes
-* Misc bug fixes
-
+Amplify v1.5(Latest):
+* Bug fixes for crashes
 
 ## Issues and Feature Requests
 
