@@ -11,8 +11,10 @@ Features include:
 
 ## Changelog
 
-Amplify v1.5(Latest):
-* Bug fixes for crashes
+Amplify v1.7(Latest):
+* Refreshing UI is now pull to refresh
+* Alarm fixes as well
+* Minor bug fixes
 
 ## Issues and Feature Requests
 
