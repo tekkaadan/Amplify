@@ -5,6 +5,7 @@
 Features include:
 * Crypto Currency Portfolio Tracking
 * Crypto Real-Time Price Checker
+* Stocks Tracking and Portfolio
 * Spot and Derivatives market prices and indicators
 * Light and dark themes
 * Notification Widgets with instant/real-time price updates
