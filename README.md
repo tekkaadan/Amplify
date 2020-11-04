@@ -11,8 +11,7 @@ Features include:
 
 ## Changelog
 
-Amplify v1.8(Latest):
-
+Amplify v1.8 (Latest):
 * Introducing Stock Tracking Alpha
 * Fixed Alarm issues where alarm was not ringing
 * Misc. Bug fixes
