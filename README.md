@@ -11,10 +11,11 @@ Features include:
 
 ## Changelog
 
-Amplify v1.7(Latest):
-* Refreshing UI is now pull to refresh
-* Alarm fixes as well
-* Minor bug fixes
+Amplify v1.8(Latest):
+
+* Introducing Stock Tracking Alpha
+* Fixed Alarm issues where alarm was not ringing
+* Misc. Bug fixes
 
 ## Issues and Feature Requests
 
