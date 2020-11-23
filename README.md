@@ -11,11 +11,14 @@ Features include:
 * Notification Widgets with instant/real-time price updates
 
 ## Changelog
+Changelog:
 
-Amplify v1.8 (Latest):
-* Introducing Stock Tracking Alpha
-* Fixed Alarm issues where alarm was not ringing
-* Misc. Bug fixes
+Amplify v1.11
+* Added the option to see Uniswap Pair ETH prices in USD
+* You now have the option to convert insertcoin/BTC pairs and see USD prices as well
+* Uniswap v2 exchange got updated to have a lot more tokens
+* Parsing error fixes for exchanges
+* Misc Bug Fixes
 
 ## Issues and Feature Requests
 
