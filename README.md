@@ -31,7 +31,7 @@ If you have any requests, changes or suggestions add them to the issues section.
 ## FAQ
 
 [See our website.](https://tekhnical.com/amplify/)
-You can also reach out to us on [Twitter](https://twitter.com/tekkaadan).
+You can also reach out to us on [Twitter](https://twitter.com/amplifytracker).
 
 ## Disclaimer
 
