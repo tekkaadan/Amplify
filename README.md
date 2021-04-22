@@ -16,8 +16,8 @@ Changelog:
 
 
 Amplify v2.22
-* Added support for PancakeSwap Exchange. You can now track BNB Chain DeFi Protocols
-* Conversion from wBNB/BNB to USD for easy price convertion
+* Fixed a few alarm bugs for users where alarm went on and off
+* Custom notification sound should not revert back to default
 * Some slight interface changes
 * Parsing error fixes for exchanges
 * Misc Bug Fixes
