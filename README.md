@@ -15,8 +15,8 @@ Features include:
 Changelog:
 
 
-Amplify v2.22
-* Fixed a few alarm bugs for users where alarm went on and off
+Amplify v2.23
+* Fixed a few alarm bugs for users
 * Custom notification sound should not revert back to default
 * Some slight interface changes
 * Parsing error fixes for exchanges
