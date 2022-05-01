@@ -15,11 +15,13 @@ Features include:
 Changelog:
 
 
-Amplify v2.23
-* Fixed a few alarm bugs for users
-* Custom notification sound should not revert back to default
+Amplify v2.27
+* Fixed issues of crashing in v2.26
+* Updated Exchange API's and added more exchanges
 * Some slight interface changes
-* Parsing error fixes for exchanges
+* Updated icons for new coins and pairs
+* Greed and Fear Index added
+* Bug fixes and Android 12 compatibility
 * Misc Bug Fixes
 
 ## Issues and Feature Requests
@@ -33,6 +35,3 @@ If you have any requests, changes or suggestions add them to the issues section.
 [See our website.](https://tekhnical.com/amplify/)
 You can also reach out to us on [Twitter](https://twitter.com/amplifytracker).
 
-## Disclaimer
-
-The developer of this application does not have any affiliation with the content providers available.
