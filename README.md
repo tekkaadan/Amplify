@@ -15,8 +15,9 @@ Features include:
 Changelog:
 
 
-Amplify v2.27
-* Fixed issues of crashing in v2.26
+Amplify v2.28
+* Fixed issues of notifications not showing
+* Fixed issues of crashing in v2.27
 * Updated Exchange API's and added more exchanges
 * Some slight interface changes
 * Updated icons for new coins and pairs
