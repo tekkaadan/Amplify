@@ -1,4 +1,4 @@
-![MAIN](https://i.imgur.com/QXu0HxA.png)
+![MAIN]([https://i.imgur.com/QXu0HxA.png](https://imgur.com/8TivN4s))
 
 ## Features
 
@@ -32,6 +32,6 @@ If you have any requests, changes or suggestions add them to the issues section.
 
 ## FAQ
 
-[See our website.](https://tekhnical.com/amplify/)
+[See our website.](https://amplifywebsite.vercel.app/)
 You can also reach out to us on [Twitter](https://twitter.com/amplifytracker).
 
