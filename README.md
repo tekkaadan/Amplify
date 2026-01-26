@@ -1,4 +1,4 @@
-![MAIN](https://imgur.com/8TivN4s)
+![MAIN](https://i.imgur.com/8TivN4s.png)
 
 ## Features
 
