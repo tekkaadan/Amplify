@@ -15,14 +15,13 @@ Features include:
 Changelog:
 
 
-Amplify v2.28
-* Fixed issues of notifications not showing
-* Fixed issues of crashing in v2.27
+Amplify v3.0.0
+* New interface
+* Portfolio charts that are dynamic
 * Updated Exchange API's and added more exchanges
-* Some slight interface changes
+* DEX's are now availble via contract address
 * Updated icons for new coins and pairs
-* Greed and Fear Index added
-* Bug fixes and Android 12 compatibility
+* Bug fixes and Android 16 compatibility
 * Misc Bug Fixes
 
 ## Issues and Feature Requests
