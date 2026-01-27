@@ -15,13 +15,10 @@ Features include:
 Changelog:
 
 
-Amplify v3.0.0
+Amplify v3.0.1
 * New interface
-* Portfolio charts that are dynamic
-* Updated Exchange API's and added more exchanges
-* DEX's are now availble via contract address
-* Updated icons for new coins and pairs
-* Bug fixes and Android 16 compatibility
+* More alarms
+* Better battery optimization
 * Misc Bug Fixes
 
 ## Issues and Feature Requests
