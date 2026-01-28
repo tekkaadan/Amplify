@@ -15,7 +15,8 @@ Features include:
 Changelog:
 
 
-Amplify v3.0.1
+Amplify v3.0.2
+* Brand new interface
 * Stocks are added
 * Charts added
 * More alarms
