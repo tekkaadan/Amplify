@@ -17,6 +17,7 @@ Changelog:
 
 Amplify v3.0.1
 * Stocks are added
+* Charts added
 * More alarms
 * Better battery optimization
 * Misc Bug Fixes
