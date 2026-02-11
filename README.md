@@ -15,13 +15,17 @@ Features include:
 Changelog:
 
 
-Amplify v3.0.2
-* Brand new interface
-* Stocks are added
-* Charts added
-* More alarms
-* Better battery optimization
-* Misc Bug Fixes
+Amplify v3.1.0
+*Fixed crash on device boot caused by service restart worker
+*Fixed crash in background watchdog that checks if price service is alive
+*Fixed app freezing when one exchange API is slow — prices now fetch in parallel with timeouts
+*Fixed connection leaks from network calls that weren't properly closed on error
+*Fixed candlestick chart crash on empty data
+*Fixed navigation crash on invalid market type
+*Cached exchange API instances so internal rate-limit caches actually work (Hyperliquid, Lighter)
+*Fixed stacking alarm listeners when navigating in/out of checker detail
+*Reduced default refresh interval from 1s to 5s to prevent API rate limiting
+*Reduced background settings polling frequency
 
 ## Issues and Feature Requests
 
